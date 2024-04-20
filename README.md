@@ -18,4 +18,4 @@ You navigate the player mostly with your mouse; left-click shoots your weapon, r
 - 9 to skip the wave
 - 0 adds 10.000 crystals
 ## DISCLAIMER
-This game is nowhere near complete, so please report any BUGS or ERRORS you ecounter. Also, Windows might flag the .exe file as a virus, but you can still play, if you click 'more info' and 'run anyway'
+This game is nowhere near complete, so please report any BUGS or ERRORS you ecounter. ~~Also, Windows might flag the .exe file as a virus, but you can still play, if you click 'more info' and 'run anyway'~~ _currently, I can't seem to add the .exe, but you can still run the .py file with VSCode or any other python-compatible editor_
