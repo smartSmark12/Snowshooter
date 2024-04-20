@@ -2,6 +2,7 @@
 ## What is Snowshooter?
 Snowshooter is a simple wave-based pygame (as the name implies) shooter. This project was programmed with one thing in mind: ONE File Only. You could say, that it's a bad practise, with which I completely agree, but so far, it is a very fun project.
 In every wave, enemies spawn, which you must kill with your weapon. Upon death, enemies wil drop crystals according to their level (harder enemies drop more crystals). At the end of each wave you enter the Crystal Shop, where you can buy new weapons, drones, turrets and upgrades. You will unlock more and more content as you progress through the game.
+Currently, you can't die in the game, nor is there any main menu or sound, but all this and more will be added in the future, so please be patient :>
 ## Features
 - MANY types of (simple) enemies
 - Procedural wave system
